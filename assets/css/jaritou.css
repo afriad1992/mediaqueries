@@ -1,0 +1,68 @@
+
+ #promotion {width: 100%;}
+ nav{
+  background-color: black;
+    padding: .1em;
+    right: 100px; 
+}
+
+nav ul {
+display: inline-flex;
+  
+    padding: 0;  
+  }
+  nav a {
+    
+    font-size: .8em;
+    color: white;
+    text-decoration: underline;
+    padding: 1em.3em;
+  }
+
+  aside {
+    background: gainsboro;
+     width: 400px;
+    height: 450px;
+    float: right;
+    -ms-layout-grid: inline;
+  }
+
+figcaption {
+position: relative;
+left:600px;
+font-size: 16pt;
+ display: inline;
+}
+    
+   
+hr{border-color:ghostwhite ;}
+table {
+  background-color: gainsboro;
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid black;
+}
+td {
+  border: 3px solid black;
+  text-align: center;
+  
+}
+
+fieldset{color:black;
+  font-size: 16px;
+  font-weight: bold;
+  background-color:floralwhite;
+}
+#tech{position: relative;
+bottom: 40px;}
+#envoyer{position: relative;
+  top: 40px;          
+          }
+#reinitialiser{position: relative;
+            top: 40px;          
+                    }
+
+#b {color: blue}
+
+
